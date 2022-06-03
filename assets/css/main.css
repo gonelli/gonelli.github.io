@@ -3490,7 +3490,7 @@ input, select, textarea {
 			max-width: 95%;
 			padding: 6em;
 			position: relative;
-			text-align: right;
+			text-align: center;
 			vertical-align: middle;
 			z-index: 1;
 		}
@@ -4157,3 +4157,7 @@ a.blue-icon:hover {
 .no-left-pad {
 	padding-left: none;
 }
+
+.center {
+	margin: auto;
+  }

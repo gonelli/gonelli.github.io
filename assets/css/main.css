@@ -3914,6 +3914,7 @@ input, select, textarea {
 					width: 90px;
 					outline: 0;
 					border: 0;
+					display: none; /*TODO unremove when other pages are created*/
 				}
 
 					#titleBar .toggle:before {

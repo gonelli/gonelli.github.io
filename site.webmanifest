@@ -1,6 +1,6 @@
 {
-    "name": "Tony Gonelli",
-    "short_name": "Tony Gonelli",
+    "name": "Gonelli",
+    "short_name": "Gonelli",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -13,6 +13,6 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#1d1c40",
-    "background_color": "#1d1c40"
+    "theme_color": "#603cba",
+    "background_color": "#603cba"
 }
